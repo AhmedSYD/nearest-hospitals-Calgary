@@ -3,7 +3,7 @@
 ENGO 651 - Adv. Topics on Geospatial Technologies
 
 ## Overview:
-This website is an assignment for the 4th lab (Adv. Topics on Geospatial Technologies). On this website, a user can find the location of schools, clinics, and hospitals on the map of Calgary. If the user clicks on any school on the map, the nearest hospital/clinic will be highlighted on the map. Moreover, the name of any school, hospital, or clinic will appear as a pop content message if the user hovers over it. 
+This website is an assignment for the 4th lab (Adv. Topics on Geospatial Technologies). On this website, a user can find the location of schools, clinics, and hospitals on the map of Calgary. If the user clicks on any school on the map, the nearest hospital/clinic will be highlighted on the map. Moreover, the name of any school, hospital, or clinic will appear as a popup message if the user hovers over it. 
 
 ## System requirement:
 - Any platform you like such as Windows, Linux, and so on. 
