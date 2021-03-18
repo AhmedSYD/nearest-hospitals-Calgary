@@ -39,7 +39,7 @@ You can find both libraries in the `requirements.txt` and install them by runnin
 
 * Moreover, if the user clicks on any school marker, the nearest hospital marker will be highlighted by a blue circle as shown below.
 
-![popcontent_message](https://user-images.githubusercontent.com/26576895/111609093-9d848b00-87e2-11eb-9b30-a3082c36fba4.png)
+![nearest_hospital](https://user-images.githubusercontent.com/26576895/111619604-73d16100-87ee-11eb-9370-7502a192a442.JPG)
 
 ## what’s contained in each file:
 - `application.py`: is responsible for python flask coding and getting JSON data from Open Calgary API datasets(school locations and hospital/clinic locations datasets) and then passes it to the `nearest_hospitals.js` file.
